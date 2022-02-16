@@ -1,0 +1,4 @@
+[submodule "blebleeeblog/public"]
+	path = blebleeeblog/public
+	url = https://github.com/blebleee/blebleee.github.io.git
+	branch = main
